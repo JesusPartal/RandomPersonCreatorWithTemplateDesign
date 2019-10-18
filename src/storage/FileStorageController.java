@@ -18,7 +18,7 @@ import model.SuperVillain;
 public class FileStorageController implements Serializable {
 
 	private static final long serialVersionUID = 1L;
-	private final String SPAWNING_DIRECTORY = "../BattleZoneFolder/";
+	private final String SPAWNING_DIRECTORY = "../BattleZoneFolderTD/";
 	private final String SPAWNED_FILENAME = "batllezone_";
 	private final String SPAWNED_EXTENSION = ".ser";
 	private int fileVersion;
